@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EnglishSpeaker</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    
+    <string name="sample">I make up with my girlfriend.</string>
+    
+    <string name="btn_play">PLAY</string>
+    <string name="btn_stop">STOP</string>
+    
+    <string name="btn_speed_up">S UP</string>
+    <string name="btn_speed_down">S DOWN</string>
+    
+    <string name="btn_pitch_up">P UP</string>
+    <string name="btn_pitch_down">P DOWN</string>
+    
+    <string-array name="arr_on_touch">
+        <item>There is a book on the desk.</item>
+        <item>There\'s a fly on the ceiling.</item>
+        <item>There is a handle on the door.</item>
+        <item>He has a scar on his face.</item>
+        <item>A baby is on the back.</item>
+        <item>I\'m on the computer.</item>
+        <item>He is singing on the piano.</item>
+    </string-array>
+    
+    <string-array name="arr_on_ing">
+        <item>She talked on and on.</item>
+        <item>They moved forward on and on.</item>
+        <item>From now on, I will learn Chinese.</item>
+        <item>I\'m skipping breakfast from now on.</item>
+        <item>I can\'t move on anymore.</item>
+        <item>How long are you going to stay on here?</item>
+        <item>His speech dragged on for an hour.</item>
+        <item>I want you to get on with him.</item>
+        <item>Stop chatting and get on with your work!</item>
+    </string-array>
+    
+    <string-array name="arr_up_whole">
+		<item>We went up to the hill slowly.</item>
+		<item>I went up to him and asked.</item>
+		<item>We walked up to the hill.</item>
+		<item>We ran up to the hill.</item>
+		<item>We drove to the hill.</item>
+		<item>A strange man walked up to me.</item>
+		<item>A strange man ran up to me.</item>
+		<item>A strange man drove up to me.</item>
+		<item>Plants come up in spring.</item>
+		<item>Come up to the second floor.</item>
+		<item>Somebody came up to me.</item>
+		<item>Come up and solve the problem.</item>
+		<item>The decision up to you.</item>
+		<item>It is up to you to go or not.</item>
+		<item>The choice is all up to you.</item>
+		<item>I\'ll call you up in ten minutes.</item>
+		<item>Ring me up as soon as you get here.</item>
+		<item>The child is growing up well.</item>
+		<item>She grew up to be an able artist.</item>
+		<item>Please pull up your shirt. I\'ll check your chest.</item>
+		<item>Pull up the chairs, here.</item>
+		<item>Please pull up in front of the bank.</item>
+		<item>Draw up here please.</item>
+		<item>I\'m studying English very hard to move up to the advanced class.</item>
+		<item>You need to speak fluent English to move up.</item>
+		<item>It is a hard work to bring up the children.</item>
+		<item>Why don\'t you bring up your idea during the next meeting?</item>
+		<item>He brought up lunch.</item>
+		<item>I looked up to the sky for a while.</item>
+		<item>I look up to my parents.</item>
+		<item>If you don\'t know the word, look it up in a dictionary.</item>
+		<item>You should look up what you need on the computer.</item>
+		<item>Everybody, please pick up your glasses.</item>
+		<item>Pick up the phone, it\'s for you.</item>
+		<item>Let me pick up the bill.</item>
+		<item>Please pick up some fruites on your way home.</item>
+		<item>I\'m here to pick up my pants.</item>
+		<item>Where can I pick up my baggage?</item>
+		<item>I\'ll pick you up and take you to the airport.</item>
+		<item>I picked up a few words of Japanese when I was in Tokyo.</item>
+	</string-array>
+</resources>
